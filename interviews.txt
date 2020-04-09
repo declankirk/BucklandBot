@@ -1,0 +1,58 @@
+Yes, of course, it could be. It is now generally accepted that we call cyberwar the fifth domain of war. In the last couple of years, it has been a universally accepted term. And all major countries including India and Australia are building up a massive cyber defensive and an offensive system to counter it. A former director of Intelligence in the United States said recently that if there is a chance of a world war, that he didn't think there would be a major world war in the next five years, but then he paused and said, 'Except in cyber. That's already almost happening'.
+
+We have seen the attacks on Ukraine, Estonia, there have been problems between India and Pakistan, attacks from North Korea, so these are already happening. Espionage, where military secrets and commercial secrets are stolen from all major countries by each other, is a form of economic warfare. It is cheap and it's clearly the easiest form of warfare now. Humans aren't hurt and your presence and identity are hidden. I think it will increase until we learn how to defend ourselves against it. I feel we are gradually moving from an internet of trust to one of attack and exploitation.
+
+I think everyone is faking it, in a way when you walk down the street you are faking it, we construct the way we look. It's very hard to be authentic and honest in everything we do. There is nothing wrong and it is completely human to think that you should make yourself look good when other people are observing you, be it on the roads or on social media. You adjust your behaviour because of that. There is a problem because people's behaviour on social media is a new thing that we don't fully understand. People are being thrown out of their jobs for maybe something they had said 10 years ago. The dangers of fake news, of knowledge not being respected, of honesty, and popularity being given more importance than quality and expertise — these are serious problems for mankind. But, social media is not only a problem but also a great benefit to mankind. India's power is its people. Facebook and social media lets you tap into that, lets people speak their minds. With that benefit also comes responsibility so it's important we continue to discuss this. We have to move slowly and carefully and, together, head into this unknown world.
+
+My main fear is that we don't have enough people that understand cyber. The problem may be fixed in a generation or two but in the foreseeable future, there's a shortfall of people with the right kind of knowledge. There are no built-in reactions to cyber threats. It's not like when we hear a car, we pause and then cross. We don't have these reactions for cyber. So my biggest fear is the world doesn't have enough trained people because cyber education isn't good enough and it definitely is not universal yet.
+
+In cybersecurity, in particular, there is a big gap between theory and practice, it's a new field and it's happening all around us now. Once you know how to work on it and become good at it there's so much money you can make working in the industry that there is a temptation for all the strong academics to be gobbled up. One of my students was offered a car just to sign the contract, and you know academics don't earn that much. So there is a gap, but engineering has always had this gap, and how we solved it as engineers is that we had experts teach the students what they need to know.
+
+I think we have this myth that it is all natural talent and not something you can learn and it's probably that way because of our older generations when there were not many ways to learn to compute when it was a comparatively new subject. Which is why most senior people that we see now are all self-taught. Computing is for everyone. It is to solve mankind's problems and help everyone. You can be trained to perfect the art of computing and if you are lucky and blessed you start with a lot of natural talent, but even when you don't start off with talent, it's upon all of us to get trained and try and become the best at what we are doing. Be the best people we can. At the end of the day, it is 90 per cent hard work.
+
+The lynchpin of my approach to teaching is I don't really want so much to teach because I think that's extremely difficult.
+
+I want the students to learn and I think that's extremely easy because I think we are machines built to learn. I really see my job as being someone that inspires and motivates the students and makes them want to learn and then they do the work, not me.
+
+I think education is really important,
+
+Transforming people's minds and helping people is what life's about, not making money and things like that.
+
+to be a good cyber security student, you have to be a rascal,
+
+Someone says to you, ‘Don't do this’ and you go ‘Oh okay’ and you go and do it. That's a cyber security student.
+
+We try and get everyone treated the same and doing the same thing, and to make that manageable everyone has to obey the rules, everyone has to say the right answer; there’s just one answer, things to be markable have to have a limited range of options.
+
+We want people who are good and compliant and seek to please us as teachers, who give us the answer we want,
+
+The troublemakers actually cause all sorts of problems and are really hard and expensive to teach. Yet it's troublemakers we want.
+
+Often these people haven't even done well at high school, because they didn't want to please the HSC system. Often to please the HTC system, you almost have to give up some of this sense of being cheeky.
+
+We create a warm, and here’s a silly word I’m going to say, loving community of students who care for each other and who look after each other and follow this philosophy of paying it forward.
+
+Our older students help younger students, and the younger students when they grow up, they help the next generation of younger students.
+
+And we just make it fun,
+
+There’s many problems in cyber space; there’s many issues in cyber security that we have to deal with,
+
+The biggest problem we’ve got is that we don't have enough people,
+
+I think all the problems we're facing are solvable, if only we had hands to do them,
+
+I don't know anyone here that employs people that has enough cyber security people and if so you just must pay them lots of money and have stolen from somewhere else; you've tugged the blanket over to your side of the bed, but the blanket is too small for the bed and someone else is cold,
+
+We’re not getting enough people doing STEM... we’re not getting a diverse enough range of people even potentially interested in doing cyber security. So coming in at the beginning, this is very small number of people trying to even select it as a career.
+
+We’re not really very good at teaching it,
+
+A lot of my students go and they’re the only security person in their company. They can’t be slowly mentored like in other disciplines by experienced people; they’re alone. The buck stops with them.
+
+because cyber security, the digital world, the threats of it, affect every human on the planet.
+
+Children are giving up data and losing data privacy now in ways they’ll never get back. People are being scammed; elderly people are losing their superannuation.
+
+I think it's like crossing the road: I don't think cyber security now is something for cyber professionals, though we need more of them, heaven knows. I think cyber security is something to be a citizen. It's like knowing good nutrition. It's a set of skills that we need to have.
+

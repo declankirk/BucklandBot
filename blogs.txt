@@ -1,0 +1,89 @@
+I've just posted videos of lecture 3.0 and 3.1 and several others from module 3 are almost ready to go.   (woo hoo!)
+
+Editing videos has turned into a real bottleneck so we've now (hopefully) worked out a way around it - big thanks to the CBA for their help with this - for module 4 and onwards we are trying an external video editor who is experienced and fast.  so that might mean we can put videos up in almost real time!  Don't want to count my chickens but I'm feeling cautiously excited about it.
+
+Tonght is the midsem exam for my face to face UNSW students (mooc-ers get it in module 6) been slowly setting that up.  have lots of plans for lecture tonight but have cut it fine to type all the notes in - might be some ad libbing needed.  the remaining exercises are still sitting here on my desktop - i just need 60 minutes uninterupted peace and i will get them up.  curse the immediaacy of email and all the things i slipped behind on aslt week while away and  unwell.  I MUST get it all posted tomorrow.  Hopefully i can get some uninterupted time before everyone wakes in the morning.
+
+ 
+
+I've been very moved by the great work students are doing all over the mooc.  helpig each other, solving challenges, thinking sharply, sharing ideas and having serious discussions.  it's a sher delight.  thanks all for making an old teacher very proud.   Many students are hitting obstacles (as always happens form time to time) but I see people not giving up and persevering.  It is wonderful.
+
+ 
+
+cheers
+
+richard
+
+Been sick with lurgey and then speaking at ACSC this week so have been very slow working on the MOOC.  The conference was fun, at least the parts I attended - i spent most of it coughing in my hotel room feeling sorry for myself.  The highlight for me of the things i amanged to see was the fibre channel attacks demonstrated by (Kylie?) from Canberra (a CISCO employee)  Wonderful old school hands on investigating and breaking things.  Showed how to break out of a DMZ - made me giggle.
+
+Tim from Google/Chrome caught a defence employee in a simple honeypit which cost him about $100 all up to create and deploy.  very amusing.  And he never broke the law, apparently, which was even more impressive.  Now if he could just avoid paying any tax he'd have a perfect hat trick
+
+In my presentation I spoke a lot about this course and how much I'm loving it and being impressed by the students and the community which is emerging.  I met some students of the course which was absolutely amazing and made me very happy.  Thanks to those who came up and said hi.
+
+Now I'm going to try to finish off the remaining Module 2 activities, and the Case Studies, and then write the midsemester exam for next week.  The week after we pause and have a quiet week for ANZAC day so hopefully that will give me a chance to catch up on some of the video editing backlog which is weighing on my mind...
+
+It feels like all I've been doing today is putting up information theory activities for module 2.   One thing that is new for me is, because there are so many students in the mooc, and they are so keen, I'm having the wonderful experience of seeing people doing activities as soon as I release them, and doing them very well too.   I've still got two very interesting ones to write properly and post and then I'd beter make sure I get the Cyber Crypto and Sec Eng exercises up - so people don't think module 2 is entirely about Information Theory.  
+
+My plan: I put these Info-Theory exercises in because I think it is important for everyone to start thinking in an information theory way, and to also appreciate the possibility (and easiness) of conducting your own experiments on corpora rather than just believing what  people write about crypto results and norms.
+
+However we do also need some fun security engineering thinking and hacking exercises each week too, so that we stay nice and balanced.  I'll try to get them up tommorrow.
+
+I didn't expect blogging to be this hard.  it's interesting that i keep deciding to postpone writing anything, waiting until i've done something significant.  which is always around the corner.  i suspect the trick is to write regularly regardless of how much i think i have to say, rather than waiting until i am ready to announce somthing amazing.
+
+today i've finished the draft edit of the remaining week 2 lectures and uplaoded them.  and i've started putting up the activities.  based on the experience i've had so far that it will probably take me about two weeks to make each module ready.  So the online course will move at half the pace of the face to face course.  i am going to try to think of some ways of increasing the pace a bit.
+
+the activities for this week are fun.  i got distracted by claude shannon's juggling which was a delight and have so far only posted a co-incidence index task.  i have a few more information theory tasks to past, some decryption wargames are ready to go, and then a few fun security engineering and cyber activities too.  i hope to get quite a few out over the weekend.
+
+my face to face students have theior exam coming up so i need to get them a sample exam, and also show them sample job applications so they have a more concrete idea of what they are after.
+
+next week i'm speaking at ACSC in canberra - which means I need to finalise my talk.  I have 3 interesting proto talks i could give, i have to pick one soon and develop it into a proper presentation.  so a busy weekend ahead!
+
+i'm really enjoying watching how the students are all interacting and approaching everything with gusto and enthusiasm.  not seem any meanness or bragging on the site so far which is a delight.  instead people seem humble and keen to help each other.  i probably need to spend less time reading what everyone is saying and doing and more time editing videos (but that is no-where near as enjoyable!)
+
+List in one spot all the tute and lab times and places and the weeks they are doing seminars/lecture notes to make it easy to see what you have to do and when
+
+put up the style guide
+
+put up challenge exercises site for students to visit when they want more revision / challenge.  there has been a  fair bit of demand for this
+
+finish the forum page so there is a clear idea of where to go to ask different types of questions, and so students don't have to read EVERYTHING to be sure of knowing what is going on.
+
+tips for lecture notes
+
+tips for blogging
+
+tips for seminars
+
+tips for lightening talks
+
+david harris' notes
+
+portfolio sample
+
+remind everyone to use the full name in their profile and to put up a real picture.
+
+List in one spot all the tute and lab times and places and the weeks they are doing seminars/lecture notes to make it easy to see what you have to do and when
+
+put up the style guide
+
+put up challenge exercises site for students to visit when they want more revision / challenge.  there has been a  fair bit of demand for this
+
+finish the forum page so there is a clear idea of where to go to ask different types of questions, and so students don't have to read EVERYTHING to be sure of knowing what is going on.
+
+tips for lecture notes
+
+tips for blogging
+
+tips for seminars
+
+tips for lightening talks
+
+david harris' notes
+
+portfolio sample
+
+I'm really enjoying tutoring 1927.  My life has been centered on lecturing for so many years now and now i'm tutoring again i realise how much i've missed it.
+
+Tutoring is much more intimate than lecturing - it's nice to be able to get to know and spend time with every student.
+
+My personal challenge is to shut up more and make sure the students talk and contribute more than i do - i need to make sure i don't drift into giving a mini lecture whenever we hit something new.
