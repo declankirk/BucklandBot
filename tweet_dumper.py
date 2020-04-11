@@ -45,25 +45,20 @@ def get_all_tweets(screen_name):
 		
 		print("...%s tweets downloaded so far" % (len(alltweets)))
 	
-	#transform the tweepy tweets into a 2D array that will populate the csv	
-	#outtweets = [[tweet.id_str, tweet.created_at, tweet.text.encode("utf-8")] for tweet in alltweets]
-	
-	#write the csv	
-	#with open('%s_tweets.csv' % screen_name, 'w') as f:
-	#	writer = csv.writer(f)
-	#	writer.writerow(["id","created_at","text"])
-	#	writer.writerows(outtweets)
-	
 	f = open("tweets.txt","wb")
 
 	for tweet in alltweets:
 		tweetstring = tweet.text
+		if tweetstring.startswith("RT"): continue # ignore retweets
+
 		tweetstring = re.sub(r"http\S+", "", tweetstring) # getting rid of links
 		tweetstring = re.sub(r"@\S+", "", tweetstring) # so we don't @ people
+		tweetstring = re.sub(r".*…", "", tweetstring) # remove quotes of replied tweets
+		
+		tweetstring += '\n'
 		f.write(tweetstring.encode("utf-8"))
 	f.close()
 	pass
-
 
 if __name__ == '__main__':
 	#pass in the username of the account you want to download

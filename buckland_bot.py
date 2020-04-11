@@ -23,7 +23,7 @@ tweets_model = markovify.Text(tweets)
 blogs_model = markovify.Text(blogs)
 interviews_model = markovify.Text(interviews)
 
-combo_model = markovify.combine([ blogs_model, interviews_model ])
+combo_model = markovify.combine([ blogs_model, interviews_model ], [1, 2])
 combo_model = markovify.combine([ combo_model, tweets_model ])
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
@@ -39,7 +39,7 @@ def job():
     print()
 
 if __name__ == '__main__':
-    schedule.every(30).to(180).minutes.do(job).run()
+    schedule.every().hour.do(job).run()
     while True:
         schedule.run_pending()
         time.sleep(1)
