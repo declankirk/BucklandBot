@@ -54,6 +54,9 @@ def get_all_tweets(screen_name):
 		tweetstring = re.sub(r"http\S+", "", tweetstring) # getting rid of links
 		tweetstring = re.sub(r"@\S+", "", tweetstring) # so we don't @ people
 		tweetstring = re.sub(r".*…", "", tweetstring) # remove quotes of replied tweets
+
+		tweetstring = re.sub(r"&amp;", "&", tweetstring)
+		tweetstring = re.sub(r"&gt;", ">", tweetstring)
 		
 		tweetstring += '\n'
 		f.write(tweetstring.encode("utf-8"))
